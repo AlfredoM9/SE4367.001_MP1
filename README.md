@@ -114,5 +114,6 @@ My implementation and results are shown below.
 
 ![Bonus Results](screenshots/q3_bonus_results.PNG)
 
-###Questions
+### Questions
+
 If you have any questions, please feel free to contact me. Thank you.
